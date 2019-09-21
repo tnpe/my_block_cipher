@@ -26,8 +26,8 @@ Parameter4: output file name.
 
 C Standard: C99
 
-Block Size: 32 bits (required by instructor)
+Block Size: 32 bits (required by the instructor for this project)
 
-Effective Key Size: 32 bits (required by instructor)
+Effective Key Size: 32 bits (required by the instructor for this project)
 
-Mode of Operation: ECB (required by instructor)
+Mode of Operation: ECB (required by the instructor for this project)
